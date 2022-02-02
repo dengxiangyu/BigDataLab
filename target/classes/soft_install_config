@@ -1,0 +1,6 @@
+1  git 安装目录 :/usr/local/bin/git
+   git 仓库目录: /Users/shuidi/gitworkspace/
+2  github clone文件目录:   /Users/shuidi/gitworkspace/github
+3  maven安装目录:/Users/shuidi/soft/maven/apache-maven-3.8.1
+   maven仓库目录:/Users/shidi/.m2/repository
+4  jdk安装目录:=/Library/Java/JavaVirtualMachines/jdk-17.0.1.jdk/Contents/Home
